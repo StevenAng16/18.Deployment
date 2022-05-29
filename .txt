@@ -1,0 +1,7 @@
+Site Created
+
+Admin URL: https://app.netlify.com/sites/react-js-27
+URL:       https://react-js-27.netlify.app
+Site ID: f0cfacdf-8c3c-4461-a918-3468a0df6498
+Logs:              https://app.netlify.com/sites/react-js-27/deploys/629334100b69661e495783df
+Website Draft URL: https://629334100b69661e495783df--react-js-27.netlify.app
