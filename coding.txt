@@ -11,6 +11,7 @@ npm run build
 netlify help
 netlify deploy
 
+netlify deploy --prod
 
 // To get a list of available sub-commands, arguments, and flags, run:
 netlify [command] help
