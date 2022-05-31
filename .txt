@@ -1,9 +1,13 @@
 Site Created
 
-Admin URL: https://app.netlify.com/sites/react-js-27
-URL:       https://react-js-27.netlify.app
-Site ID: f0cfacdf-8c3c-4461-a918-3468a0df6498
-Logs:              https://app.netlify.com/sites/react-js-27/deploys/629334100b69661e495783df
-Website Draft URL: https://629334100b69661e495783df--react-js-27.netlify.app
+Admin URL: 
+https://app.netlify.com/sites/react-js-27
+URL:       
+https://react-js-27.netlify.app
+Site ID:   598f8d31-f07d-4e7b-8fff-3de7000948fb
+Logs:              
+https://app.netlify.com/sites/react-js-27/deploys/629334100b69661e495783df
+Website Draft URL: 
+https://629334100b69661e495783df--react-js-27.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f0cfacdf-8c3c-4461-a918-3468a0df6498/deploy-status)](https://app.netlify.com/sites/react-js-27/deploys)
